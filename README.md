@@ -30,6 +30,8 @@ Ecommerce website built with Django 2.2.3, Python 3.7.10
 
 `pip install django`
 
+`python -m venv <env_name>`
+
 `virtualenv env`
 
 # For Window
